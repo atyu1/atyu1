@@ -10,8 +10,11 @@ I am a passionate Network Engineer who use this profile to save my learning and 
 -------------------------------------------------------------------------------------------
 
 🔭 I’m currently working on my Home Sensors and Automation
+
 🌱 I’m currently learning Golang
+
 👯 I’m looking to collaborate on interesting projects.
+
 
 ⚡ Programming languages interested in: 
 <img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" alt="Golang" width="100"/>

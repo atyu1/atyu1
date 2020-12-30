@@ -13,9 +13,9 @@ I am a passionate Network Engineer who use this profile to save my learning and 
 - 👯 I’m looking to collaborate on interesting projects.
 
 - ⚡ Programming languages interested in: 
-![alt text](https://golang.org/lib/godoc/images/go-logo-blue.svg)
-![alt text](https://www.python.org/static/img/python-logo.png)
-![alt text](https://mpng.subpng.com/20190627/ttx/kisspng-javascript-computer-icons-scalable-vector-graphics-list-of-javascript-enhancements-fandom-developers-5d145895b06253.7824611015616144857225.jpg)
+![alt text](https://golang.org/lib/godoc/images/go-logo-blue.svg =100x)
+![alt text](https://www.python.org/static/img/python-logo.png =100x)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png =100x)
 
 
 - ⚡ Technologies interested in: 

@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi, this is Atyu 👋
 
-<!--
-**atyu1/atyu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Network Engineer who use this profile to save my learning and custom projects.
 
-Here are some ideas to get you started:
+📫 Main projects:
+1. Home automation through RPi
+2. Presentation web page
+3. Network automation scripts
+4. Notes and learnings for various technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my Home Sensors and Automation
+- 🌱 I’m currently learning Golang
+- 👯 I’m looking to collaborate on interesting projects.
+
+- ⚡ Programming languages interested in: 
+![alt text](https://golang.org/lib/godoc/images/go-logo-blue.svg)
+![alt text](https://www.python.org/static/img/python-logo.png)
+![alt text](https://mpng.subpng.com/20190627/ttx/kisspng-javascript-computer-icons-scalable-vector-graphics-list-of-javascript-enhancements-fandom-developers-5d145895b06253.7824611015616144857225.jpg)
+
+
+- ⚡ Technologies interested in: 
+  - Kubernetes
+  - Docker
+  - Virtualization
+  - Ansible
+  
+- Cloud skills:
+  - Openstack
+  - AWS
